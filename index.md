@@ -12,7 +12,7 @@ I help academic labs, public health labs and biotech teams turn biological data 
 
 I provide practical bioinformatics support, including:
 
-- RNA-seq, genomic, and metgenomic data analysis  
+- RNA-seq, genomic, and metagenomic data analysis  
 
 - Data quality control and troubleshooting  
 
