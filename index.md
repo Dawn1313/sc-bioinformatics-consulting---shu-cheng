@@ -25,7 +25,7 @@ I provide practical bioinformatics support, including:
 
 ## About Me
 
-I am an independent bioinformatics consultant with experience supporting bioinformtics-related projects from raw data to publication-ready results.
+I am an independent bioinformatics consultant with experience supporting bioinformatics-related projects from raw data to publication-ready results.
 
 I value clear communication, reproducibility, and efficient problem-solving.
 
