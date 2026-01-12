@@ -30,7 +30,7 @@ I am an independent bioinformatics consultant with experience supporting bioinfo
 I value clear communication, reproducibility, and efficient problem-solving.
 
 
-## 🤝 How We Can Work Together
+## How We Can Work Together 🤝 
 
 - Bioinformatics analysis projects  
 
