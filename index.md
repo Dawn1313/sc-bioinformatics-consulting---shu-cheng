@@ -32,11 +32,11 @@ I value clear communication, reproducibility, and efficient problem-solving.
 
 ## How We Can Work Together  🤝
 
-- Tailered bioinformatics analysis  
+- Bioinformatics analysis, tailored bioinformatics (e.g., multi-omics approach)  
 
 - Ongoing consulting or technical support  
 
-- Workflow review or development  
+- Workflow review, development  
 
 - Typical rates $150-$450/hour
 
