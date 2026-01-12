@@ -25,22 +25,22 @@ I provide practical bioinformatics support, including:
 
 ## About Me
 
-I am an independent bioinformatics consultant with experience supporting bioinformatics-related projects from raw data to publication-ready results.
+I am an independent bioinformatics consultant with abundant experience supporting bioinformatics-related projects from raw data to publication-ready results.
 
 I value clear communication, reproducibility, and efficient problem-solving.
 
 
-## How We Can Work Together 🤝 
+## How We Can Work Together  🤝
 
-- Bioinformatics analysis projects  
+- Tailered bioinformatics analysis  
 
 - Ongoing consulting or technical support  
 
-- NDA-friendly collaboration  
+- Workflow review or development  
 
 - Typical rates $150-$450/hour
 
-- Remote work
+- NDA-friendly collaboration
 
 
 ## Contact
