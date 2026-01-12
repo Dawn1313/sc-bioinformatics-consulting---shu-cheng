@@ -30,13 +30,15 @@ I am an independent bioinformatics consultant with experience supporting bioinfo
 I value clear communication, reproducibility, and efficient problem-solving.
 
 
-## How We Can Work Together
+## 🤝 How We Can Work Together
 
-- Short-term analysis projects  
+- Bioinformatics analysis projects  
 
 - Ongoing consulting or technical support  
 
 - NDA-friendly collaboration  
+
+- Typical rates $150-$450/hour
 
 - Remote work
 
