@@ -48,5 +48,5 @@ I value tailored bioinformatics workflows, reproducibility, and efficient proble
 ## Contact
 
 <p>If you would like to discuss a bioinformatics project, please submit an inquiry on the page
-<a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">"Let's Get Started"</a>.
+<a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">Let's Get Started</a>.
 </p>
