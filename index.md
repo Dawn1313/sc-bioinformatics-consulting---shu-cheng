@@ -48,4 +48,5 @@ I value tailored bioinformatics, reproducibility, as well as efficient problem-s
 ## Contact
 
 If you’d like to discuss a bioinformatics project, please submit an inquiry through my website:
+
 https://sc-bioinformatics-consulting.netlify.app/
