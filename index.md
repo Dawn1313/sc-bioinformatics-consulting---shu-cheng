@@ -5,7 +5,9 @@ title: SC Bioinformatics Consulting
 # SC Bioinformatics Consulting - Shu Cheng 
 ## Bioinformatics Services and Consulting
 
-I help academic labs, public health labs and biotech teams turn biological data into clear, reproducible results.
+I support academic, public health, and biotech teams in translating biological big data into clear, reproducible results, genomics and transcriptomics, with the goal to advance our understanding of biology and human health, driving innovation in biomedical research and improving public health outcomes.
+
+Connecting bioinforamtics with art is my ideal. I am alwasy inspired by the beauty in nature and in art. My dad was very talented in calligraphy and painting. I aim to convert an ocean of data, DNA/RNA sequence reads and associated metadata, into biologically meaningful, statistically significant results, and present them in an interesting, beautiful way, like the view of the beach and waves. 
 
 
 ## What I Do
