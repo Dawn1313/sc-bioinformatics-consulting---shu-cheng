@@ -23,9 +23,9 @@ I provide practical bioinformatics support, including:
 - Analysis documentation and methods support  
 
 
-## About Me
+## About Me: The Bridge Between Biology and Big Data
 
-I am a Bioinformatics Consultant, with 18 years of bioinformatics experience, dedicated to helping researchers and biotech innovators navigate the complexities of high-throughput sequencing.
+I am a Bioinformatics Consultant, with 18 years of bioinformatics experience, dedicated to helping researchers and biotech innovators navigate the complexities of high-throughput sequencing. I am a hybrid expert—someone understands the biological "wet lab" context but possesses the high-level computational "dry lab" skills to process the data.
 
 I value tailored bioinformatics workflows, reproducibility, as well as efficient problem-solving.
 
