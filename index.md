@@ -5,9 +5,7 @@ title: SC Bioinformatics Consulting
 # SC Bioinformatics Consulting - Shu Cheng 
 ## Bioinformatics Services and Consulting
 
-I support academic, public health, and biotech teams in translating biological big data into clear, reproducible results — genomics and transcriptomics, with the goal to advance our understanding of biology and human health, driving innovation in biomedical research and improving public health outcomes.
-
-Connecting bioinformatics with art is my ideal. I am always inspired by the beauty in nature and in art. My dad was very talented in calligraphy and painting. I aim to convert an ocean of data, DNA/RNA sequence reads and associated metadata, into biologically meaningful, statistically significant results, in an interesting, beautiful way. 
+Labs and biotech companies are often overwhelmed by the sheer volume of genomic, proteomic, and transcriptomic data. A bioinformatics consultant provides the specialized bridge between raw biological samples and actionable insights. Whether you need accuracy benchmarking, customization or PhD-level bioinformatics expertise but aren't ready for a $180k/year full-time hire, I bridge that talent gap. 
 
 
 ## What I Do
@@ -27,16 +25,16 @@ I provide practical bioinformatics support, including:
 
 ## About Me
 
-I am an independent bioinformatics consultant with abundant experience supporting bioinformatics projects from raw data to publication-ready results.
+I am a Bioinformatics Consultant, with 18 years of bioinformatics experience, dedicated to helping researchers and biotech innovators navigate the complexities of high-throughput sequencing.
 
-I value tailored bioinformatics workflows, reproducibility, and efficient problem-solving.
+I value tailored bioinformatics workflows, reproducibility, as well as efficient problem-solving.
 
 
 ## 🤝 How We Can Work Together
 
 - Short-term analysis projects  
 
-- Bioinformatics pipeline review, optimization, and validation  
+- Pipeline review, optimization, and validation  
 
 - Ongoing consulting or technical support  
 
@@ -47,6 +45,6 @@ I value tailored bioinformatics workflows, reproducibility, and efficient proble
 
 ## Contact
 
-<p>If you would like to discuss a bioinformatics project, please submit an inquiry on the page
+<p>If you would like to discuss your experimental design and data goals, please submit an inquiry on the page
 <a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">Let's Get Started</a>.
 </p>
