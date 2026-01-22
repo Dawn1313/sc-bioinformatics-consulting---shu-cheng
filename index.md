@@ -30,7 +30,7 @@ I am a Bioinformatics Consultant, with 18 years of bioinformatics experience, de
 I value tailored bioinformatics workflows, reproducibility, as well as efficient problem-solving.
 
 
-## 🤝 How We Can Work Together
+## 🤝 How We Can Work Together: Flexible Engagement Options
 
 - Short-term analysis projects  
 
@@ -45,7 +45,6 @@ I value tailored bioinformatics workflows, reproducibility, as well as efficient
 
 ## Ready to unlock your genomic insights?
 
-<p>If you would like to discuss your experimental design and data goals, please submit an inquiry on the page
-  
-<a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">Let's Get Started</a>.
+<p>If you would like to discuss your experimental design and data goals, please submit an inquiry on the page  
+<a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">Let’s Turn Your Data Into Discovery</a>.
 </p>
