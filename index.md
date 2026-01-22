@@ -43,8 +43,9 @@ I value tailored bioinformatics workflows, reproducibility, as well as efficient
 - Remote work
 
 
-## Contact
+## Ready to unlock your genomic insights?
 
 <p>If you would like to discuss your experimental design and data goals, please submit an inquiry on the page
+  
 <a href="https://sc-bioinformatics-consulting.netlify.app/" target="_blank">Let's Get Started</a>.
 </p>
