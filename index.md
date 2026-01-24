@@ -1,7 +1,7 @@
 ---
 title: SC Bioinformatics Consulting
 ---
-
+                                                                                           <img width="660" height="477" alt="image" src="https://github.com/user-attachments/assets/06b56b0a-3f7f-42ea-be5d-3fc28b2b51e9" />
 # SC Bioinformatics Consulting - Shu Cheng 
 ## Bioinformatics Services and Consulting
 
