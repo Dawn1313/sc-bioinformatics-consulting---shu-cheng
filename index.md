@@ -1,7 +1,12 @@
 ---
 title: SC Bioinformatics Consulting
 ---
-
+<div align="center">
+  <img src="logo-icon.png" width="150" alt="Bioinformatics Logo Icon">
+  <h1 style="color: #007385; font-family: sans-serif;">Bioinformatics Consulting</h1>
+  <p style="font-style: italic; color: #333;">Turning Data Into Discovery</p>
+</div>
+---
 # SC Bioinformatics Consulting - Shu Cheng 
 ## Bioinformatics Services and Consulting
 
