@@ -2,7 +2,7 @@
 title: SC Bioinformatics Consulting
 ---
 <div align="center">
-  <img src="logo-icon.png" width="300" style="margin-bottom: -50px; margin-top: -20px;" alt="Bioinformatics Consulting Logo Icon"><h1 style="margin-top: 0; color: #007385; font-family: sans-serif;">SC Bioinformatics Consulting - Shu Cheng</h1>
+  <img src="logo-icon.png" width="300" style="margin-bottom: -10px; margin-top: -20px;" alt="Bioinformatics Consulting Logo Icon"><h1 style="margin-top: 0; color: #007385; font-family: sans-serif;">SC Bioinformatics Consulting - Shu Cheng</h1>
   <p style="margin-top: -10px; font-style: italic; color: #333;">Turning Data Into Discovery</p>
 </div>
 
