@@ -6,7 +6,6 @@ title: SC Bioinformatics Consulting
   <h1 style="color: #007385; font-family: sans-serif;">SC Bioinformatics Consulting - Shu Cheng</h1>
   <p style="font-style: italic; color: #333;">Turning Data Into Discovery</p>
 </div>
----
 
 Labs and biotech companies are often overwhelmed by the sheer volume of genomic, proteomic, and transcriptomic data. A bioinformatics consultant provides the specialized bridge between raw biological samples and actionable insights. Whether you need accuracy benchmarking, customization or PhD-level bioinformatics expertise but aren't ready for a $180k/year full-time hire, I bridge that talent gap. 
 
